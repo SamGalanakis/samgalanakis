@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-AI Master's student at Utrecht University, always looking for interesting projects!
+Recent AI Master's graduate, always looking for interesting projects!
 <!--
 **SamGalanakis/samgalanakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
